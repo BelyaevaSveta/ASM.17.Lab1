@@ -5,7 +5,7 @@ import st03.main
 import st05.main
 import st06.main
 import st07.main
-imprt st08.main
+import st08.main
 import st09.main
 import st10.main
 import st12.main
